@@ -1,7 +1,7 @@
-#Somador de bases numericas:
+# Somador de bases numericas:
 
 Soma dois números de diferentes bases numéricas
-Bases numéricas possíveis:
+### Bases numéricas possíveis:
  * Decimal
  * Octal
  * Binário
