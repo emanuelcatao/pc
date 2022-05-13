@@ -1,0 +1,749 @@
+Inicia Jogo 
+
+Posiciona navios Jogador 1
+
+Entre com as coordenadas para posicionamento dos navios: 
+Linhas -> 1-10 
+Colunas ->A-J
+
+-------------- Jogador 1 --------------
+
+
+   A B C D E F G H I J
+1  - - - - - - - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Linha = 
+Coluna = 
+
+Entre com a direcao: h-horizontal v-vertical
+
+Entre com o tipo de navio:
+P-porta aviao
+G-navio de guerra
+C-cruzador
+S-submarino
+D-destruidor
+Opcao> 
+Jogador 1
+
+   A B C D E F G H I J
+1  D D - - - - - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Linha = 
+Coluna = 
+
+Entre com a direcao: h-horizontal v-vertical
+
+Entre com o tipo de navio:
+P-porta aviao
+G-navio de guerra
+C-cruzador
+S-submarino
+D-destruidor
+Opcao> 
+Jogador 1
+
+   A B C D E F G H I J
+1  D D D D - - - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Linha = 
+Coluna = 
+
+Entre com a direcao: h-horizontal v-vertical
+
+Entre com o tipo de navio:
+P-porta aviao
+G-navio de guerra
+C-cruzador
+S-submarino
+D-destruidor
+Opcao> 
+Jogador 1
+
+   A B C D E F G H I J
+1  D D D D D D - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Linha = 
+Coluna = 
+
+Entre com a direcao: h-horizontal v-vertical
+
+Entre com o tipo de navio:
+P-porta aviao
+G-navio de guerra
+C-cruzador
+S-submarino
+D-destruidor
+Opcao> 
+Jogador 1
+
+   A B C D E F G H I J
+1  D D D D D D D D - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Linha = 
+Coluna = 
+
+Entre com a direcao: h-horizontal v-vertical
+
+Entre com o tipo de navio:
+P-porta aviao
+G-navio de guerra
+C-cruzador
+S-submarino
+D-destruidor
+Opcao> 
+Jogador 1
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+Posiciona navios Jogador 2
+
+Entre com as coordenadas para posicionamento dos navios: 
+Linhas -> 1-10 
+Colunas ->A-J
+
+-------------- Jogador 2 --------------
+
+
+   A B C D E F G H I J
+1  - - - - - - - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Linha = 
+Coluna = 
+
+Entre com a direcao: h-horizontal v-vertical
+
+Entre com o tipo de navio:
+P-porta aviao
+G-navio de guerra
+C-cruzador
+S-submarino
+D-destruidor
+Opcao> 
+Jogador 2
+
+   A B C D E F G H I J
+1  D D - - - - - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Linha = 
+Coluna = 
+
+Entre com a direcao: h-horizontal v-vertical
+
+Entre com o tipo de navio:
+P-porta aviao
+G-navio de guerra
+C-cruzador
+S-submarino
+D-destruidor
+Opcao> 
+Jogador 2
+
+   A B C D E F G H I J
+1  D D D D - - - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Linha = 
+Coluna = 
+
+Entre com a direcao: h-horizontal v-vertical
+
+Entre com o tipo de navio:
+P-porta aviao
+G-navio de guerra
+C-cruzador
+S-submarino
+D-destruidor
+Opcao> 
+Jogador 2
+
+   A B C D E F G H I J
+1  D D D D D D - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Linha = 
+Coluna = 
+
+Entre com a direcao: h-horizontal v-vertical
+
+Entre com o tipo de navio:
+P-porta aviao
+G-navio de guerra
+C-cruzador
+S-submarino
+D-destruidor
+Opcao> 
+Jogador 2
+
+   A B C D E F G H I J
+1  D D D D D D D D - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Linha = 
+Coluna = 
+
+Entre com a direcao: h-horizontal v-vertical
+
+Entre com o tipo de navio:
+P-porta aviao
+G-navio de guerra
+C-cruzador
+S-submarino
+D-destruidor
+Opcao> 
+Jogador 2
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+Inicia os tiros
+jogador 1 - tiros:
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  - - - - - - - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 0
+
+Marque o tiro da seguinte forma: O-agua X-fogo A-afundou
+Entre com as coordenadas dos tres tiros
+
+Entre com a linha e a coluna do primeiro tiro
+linha11=coluna11=
+Entre com a linha e a coluna do segundo tiro
+linha21=coluna21=
+Entre com a linha e a coluna do terceiro tiro
+linha31=coluna31=
+02jogador 1 - result
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  A A X - - - - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 1
+
+jogador 2 - tiros
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  - - - - - - - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 0
+
+Marque o tiro da seguinte forma: O-agua X-fogo A-afundou
+Entre com as coordenadas dos tres tiros
+Entre com a linha e a coluna do primeiro tiro
+linha12=coluna12=
+Entre com a linha e a coluna do segundo tiro
+linha22=coluna22=
+Entre com a linha e a coluna do terceiro tiro
+linha32=coluna32=
+jogador 2 - result
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  A A X - - - - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 1
+
+jogador 1 - tiros:
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  A A X - - - - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 1
+
+Marque o tiro da seguinte forma: O-agua X-fogo A-afundou
+Entre com as coordenadas dos tres tiros
+
+Entre com a linha e a coluna do primeiro tiro
+linha11=coluna11=
+Entre com a linha e a coluna do segundo tiro
+linha21=coluna21=
+Entre com a linha e a coluna do terceiro tiro
+linha31=coluna31=
+05jogador 1 - result
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  A A A A A A - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 3
+
+jogador 2 - tiros
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  A A X - - - - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 1
+
+Marque o tiro da seguinte forma: O-agua X-fogo A-afundou
+Entre com as coordenadas dos tres tiros
+Entre com a linha e a coluna do primeiro tiro
+linha12=coluna12=
+Entre com a linha e a coluna do segundo tiro
+linha22=coluna22=
+Entre com a linha e a coluna do terceiro tiro
+linha32=coluna32=
+jogador 2 - result
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  A A A A A A - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 3
+
+jogador 1 - tiros:
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  A A A A A A - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 3
+
+Marque o tiro da seguinte forma: O-agua X-fogo A-afundou
+Entre com as coordenadas dos tres tiros
+
+Entre com a linha e a coluna do primeiro tiro
+linha11=coluna11=
+Entre com a linha e a coluna do segundo tiro
+linha21=coluna21=
+Entre com a linha e a coluna do terceiro tiro
+linha31=coluna31=
+08jogador 1 - result
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  A A A A A A A A X - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 4
+
+jogador 2 - tiros
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  A A A A A A - - - - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 3
+
+Marque o tiro da seguinte forma: O-agua X-fogo A-afundou
+Entre com as coordenadas dos tres tiros
+Entre com a linha e a coluna do primeiro tiro
+linha12=coluna12=
+Entre com a linha e a coluna do segundo tiro
+linha22=coluna22=
+Entre com a linha e a coluna do terceiro tiro
+linha32=coluna32=
+jogador 2 - result
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  A A A A A A A A X - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 4
+
+jogador 1 - tiros:
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  A A A A A A A A X - 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 4
+
+Marque o tiro da seguinte forma: O-agua X-fogo A-afundou
+Entre com as coordenadas dos tres tiros
+
+Entre com a linha e a coluna do primeiro tiro
+linha11=coluna11=
+Entre com a linha e a coluna do segundo tiro
+linha21=coluna21=
+Entre com a linha e a coluna do terceiro tiro
+linha31=coluna31=
+11jogador 1 - result
+
+   A B C D E F G H I J
+1  D D D D D D D D D D 
+2  - - - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+
+
+   A B C D E F G H I J
+1  A A A A A A A A A A 
+2  O O - - - - - - - - 
+3  - - - - - - - - - - 
+4  - - - - - - - - - - 
+5  - - - - - - - - - - 
+6  - - - - - - - - - - 
+7  - - - - - - - - - - 
+8  - - - - - - - - - - 
+9  - - - - - - - - - - 
+10 - - - - - - - - - - 
+Navios Afundados = 5
+
+O jogador 1 e o vencedor
