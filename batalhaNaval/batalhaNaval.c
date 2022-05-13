@@ -1,3 +1,19 @@
+/**
+ * @file batalhaNaval.c
+ * @author Emanuel Catao (emanuel.montenegro@mail.uft.edu.br)
+ * @brief Jogo de batalha naval:
+ * O jogo é realizado em tabuleiros de dimensão 10x10 preenchido com um total de 5 embarcações.
+ * As embarcações são de 5 diferentes tipos, cada qual com suas próprias dimensões. Vence o jogador
+ * que acertar todas as casas ocupadas por embarcações do outro jogador.
+ * Em razão da implementação empregada, o jogador que tiver em seu tabuleiro embarcações de maior tamanho
+ * leva vantagem, uma vez que seriam necessários mais tiros para acertar todas as casas ocupadas pelas embarcações.
+ * 
+ * @version 0.1
+ * @date 2022-05-13
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <stdio.h>									
 #include <stdlib.h>	
 
@@ -51,7 +67,9 @@ int main()
 
 
 /**
- * @brief Posiciona as 5 embarcações no tabuleiro de embarcações do jogador repassado no parâmetro
+ * @brief Posiciona as 5 embarcações no tabuleiro de embarcações do jogador repassado no parâmetro.
+ * Função sem retorno pois preza apenas por modificar a matriz do tabuleiro já recebida por meio de
+ * referência como parâmetro da função.
  * 
  * @param nav : matriz de caracteres que representa o tabuleiro do jogador
  * @param jogador : jogador, representado por inteiro, que irá posicionar suas embarcações 
@@ -390,7 +408,7 @@ void posiciona(char **nav,int jogador)
 
 
 /**
- * @brief Imprime o tabuleiro repassado como parâmetro
+ * @brief Imprime o tabuleiro repassado por referência no parâmetro da função
  * 
  * @param navio : tabuleiro a ser impresso
  */
