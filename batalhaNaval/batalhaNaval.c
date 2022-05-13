@@ -8,6 +8,10 @@
  * Em razão da implementação empregada, o jogador que tiver em seu tabuleiro embarcações de maior tamanho
  * leva vantagem, uma vez que seriam necessários mais tiros para acertar todas as casas ocupadas pelas embarcações.
  * 
+ * Em um jogo é possível: posicionar os tabuleiros dos jogadores; mostrar os tabuleiros de cada jogador; atirar, 
+ * gerando um outro tabuleiro para cada jogador (tabuleiro de tiros). A vitória é dada da comparação entre o tabuleiro
+ * de tiros e o tabuleiro adversário
+ * 
  * @version 0.1
  * @date 2022-05-13
  * 
