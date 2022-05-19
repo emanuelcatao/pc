@@ -107,7 +107,7 @@ void posiciona(char **nav,int jogador)
 		while(sinal1!=1)
 		{
 			printf("Coluna = \n");
-            getchar();
+			getchar();
 			scanf("%c",&coluna);
 			printf("\n");
 
@@ -118,7 +118,7 @@ void posiciona(char **nav,int jogador)
 		lin=linha-1;
 										
 		printf("Entre com a direcao: h-horizontal v-vertical\n");
-        getchar();
+		getchar();
 		scanf("%c",&direcao);
 		printf("\n");
 		
@@ -215,7 +215,7 @@ void posiciona(char **nav,int jogador)
 								mostratabuleiro(nav);
 							}
 						}
-                    }
+					}
 					else
 						if(tiponav=='S'||tiponav=='s') {
 							if(col>7)
@@ -307,7 +307,7 @@ void posiciona(char **nav,int jogador)
 					}
 				}
 				
-                else
+				else
 					if(tiponav=='G'||tiponav=='g')
 						if(lin>6)
 							printf("Navio de Guerra ficou fora do tabuleiro so pode usar linha 1=7\n");
@@ -333,8 +333,7 @@ void posiciona(char **nav,int jogador)
 							mostratabuleiro(nav);
 						}
 					}
-
-					else
+                    else
 						if(tiponav=='C'||tiponav=='c')
 							if(lin>7)
 								printf("Cruzador ficou fora do tabuleiro so pode usar linha de 1-8\n");
@@ -405,7 +404,7 @@ void posiciona(char **nav,int jogador)
 											printf("Jogador %d\n",jogador);
 											mostratabuleiro(nav);
 										}
-			                        }
+                                    }
 		}
     }
 }
