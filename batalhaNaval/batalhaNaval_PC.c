@@ -3,17 +3,18 @@
  * @author Emanuel Catao (emanuel.montenegro@mail.uft.edu.br)
  * @brief Jogo de batalha naval:
  * O jogo é realizado em tabuleiros de dimensão 10x10 preenchido com um total de 5 embarcações.
- * As embarcações são de 5 diferentes tipos, cada qual com suas próprias dimensões. Vence o jogador
- * que acertar todas as casas ocupadas por embarcações do outro jogador.
- * Em razão da implementação empregada, o jogador que tiver em seu tabuleiro embarcações de maior tamanho
+ * As embarcações são de 5 diferentes tipos, cada qual com suas próprias dimensões. Vence
+ * quem acertar todas as casas ocupadas por embarcações do adversário.
+ * Em razão da implementação empregada, quem tiver em seu tabuleiro embarcações de maior tamanho
  * leva vantagem, uma vez que seriam necessários mais tiros para acertar todas as casas ocupadas pelas embarcações.
+ * OBS: NESSA IMPLEMENTAÇÃO JOGA-SE CONTRA O COMPUTADOR QUE, RANDOMICAMENTE, DEFINE SUAS JOGADAS.
  * 
  * Em um jogo é possível: posicionar os tabuleiros dos jogadores; mostrar os tabuleiros de cada jogador; atirar, 
  * gerando um outro tabuleiro para cada jogador (tabuleiro de tiros). A vitória é dada da comparação entre o tabuleiro
  * de tiros e o tabuleiro adversário
  * 
  * @version 0.1
- * @date 2022-05-13
+ * @date 2022-05-28
  * 
  * @copyright Copyright (c) 2022
  * 
